@@ -12,14 +12,14 @@ Unreal Engine 5 project where I lead the team and work directly on gameplay syst
 ▶️ [Full Showcase](https://youtu.be/YK4HdQIt8kc)
 
 ### ⚔️ Fernhite Z
-My personal Unreal Engine 5 project, where I'm leading a small development team focused on gameplay mechanics, player/camera systems, dynamic weather, interactions, and world development.
+My personal Unreal Engine 5 project where I lead a small development team while working directly on gameplay systems/mechanics, player/camera systems, dynamic weather, interactions, and world development.
 
 ### 🌐 Portfolio
 [aldahiree.github.io/Kailon](https://aldahiree.github.io/Kailon)
 
 ## Tech
 
-**C++ • Java • Python • JavaScript • Unreal Engine 5 • Blueprints • Git • GitHub**
+**C++ • Java • Python • JavaScript • Unreal Engine 5 • Blueprints • Git • GitHub, React, Visual Studio**
 
 ## Connect
 
