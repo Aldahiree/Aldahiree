@@ -1,16 +1,28 @@
-## Hi there 👋
+# Abdullah Aldahiree
 
-<!--
-**Aldahiree/Aldahiree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer focused on **C++, Unreal Engine 5, gameplay systems, and interactive software**.
 
-Here are some ideas to get you started:
+I enjoy turning ideas into working projects — from gameplay mechanics and real-time environments to web applications and software systems. Most of my recent work has focused on Unreal Engine, C++, Blueprints, and building projects from the ground up.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Work
+
+### 🎮 LunaViridis
+Unreal Engine 5 project where I lead the team and work directly on gameplay systems, environments, optimization, and world development.
+
+▶️ [Full Showcase](https://youtu.be/YK4HdQIt8kc)
+
+### ⚔️ Fernhite Z
+My personal Unreal Engine 5 project, where I'm leading a small development team focused on gameplay mechanics, player/camera systems, dynamic weather, interactions, and world development.
+
+### 🌐 Portfolio
+[aldahiree.github.io/Kailon](https://aldahiree.github.io/Kailon)
+
+## Tech
+
+**C++ • Java • Python • JavaScript • Unreal Engine 5 • Blueprints • Git • GitHub**
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/AbdullahAldahiree) •
+[Portfolio](https://aldahiree.github.io/Kailon) •
+[YouTube Showcase](https://youtu.be/YK4HdQIt8kc)
