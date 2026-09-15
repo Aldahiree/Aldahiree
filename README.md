@@ -19,7 +19,7 @@ My personal Unreal Engine 5 project where I lead a small development team while 
 
 ## Tech
 
-**C++ • Java • Python • JavaScript • Unreal Engine 5 • Blueprints • Git • GitHub, React, Visual Studio**
+**C++ • Java • Python • JavaScript • Unreal Engine 5 • Blueprints • Git • GitHub • React • Visual Studio**
 
 ## Connect
 
